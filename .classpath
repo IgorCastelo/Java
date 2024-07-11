@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Arrays/src/main/java"/>
+	<classpathentry kind="src" path="Classes/src/main/java"/>
+	<classpathentry kind="src" path="ClassesAbstratas/src/main/java"/>
+	<classpathentry kind="src" path="Construtores/src/main/java"/>
+	<classpathentry kind="src" path="ConstrutorThis/src/main/java"/>
+	<classpathentry kind="src" path="EncapsulamentoGettersAndSetters/src/main/java"/>
+	<classpathentry kind="src" path="For/src/main/java"/>
+	<classpathentry kind="src" path="ForEach/src/main/java"/>
+	<classpathentry kind="src" path="Heranca0/src/main/java"/>
+	<classpathentry kind="src" path="Instrucoes/src/main/java"/>
+	<classpathentry kind="src" path="Inteface2/src/main/java"/>
+	<classpathentry kind="src" path="Interface/src/main/java"/>
+	<classpathentry kind="src" path="InterfaceIteratorAndComparator/src/main/java"/>
+	<classpathentry kind="src" path="InterfaceList/src/main/java"/>
+	<classpathentry kind="src" path="Interfaces/src"/>
+	<classpathentry kind="src" path="InterfacesExercicio/src"/>
+	<classpathentry kind="src" path="Matrizes/src/main/java"/>
+	<classpathentry kind="src" path="ModificadoresDeAcesso/src/main/java"/>
+	<classpathentry kind="src" path="palavraChaveSuper/src/main/java"/>
+	<classpathentry kind="src" path="Polimorfismo/src/main/java"/>
+	<classpathentry kind="src" path="polimorfismoEx2/src/main/java"/>
+	<classpathentry kind="src" path="POOClasses/src/main/java"/>
+	<classpathentry kind="src" path="POOMetodosComRetorno/src/main/java"/>
+	<classpathentry kind="src" path="PPOOClassesMetodosSemRetorno/src/main/java"/>
+	<classpathentry kind="src" path="RelacionamentoEntreClasses/src/main/java"/>
+	<classpathentry kind="src" path="SobreCargaDeMetodos/src/main/java"/>
+	<classpathentry kind="src" path="Switch/src/main/java"/>
+	<classpathentry kind="src" path="VariaveisEMetodosStaticos/src/main/java"/>
+	<classpathentry kind="src" path="While/src/main/java"/>
+	<classpathentry kind="src" path="WorkWithFiles/Aula01/src"/>
+	<classpathentry kind="src" path="WorkWithFiles/Bloco try-with-resources/src"/>
+	<classpathentry kind="src" path="WorkWithFiles/Exercicio/src"/>
+	<classpathentry kind="src" path="WorkWithFiles/Exercicio2/src"/>
+	<classpathentry kind="src" path="WorkWithFiles/FileReader e BufferedReader/src"/>
+	<classpathentry kind="src" path="WorkWithFiles/Manipulando pastas com File/src"/>
+	<classpathentry kind="output" path="Arrays/build/classes/java/main"/>
+</classpath>
